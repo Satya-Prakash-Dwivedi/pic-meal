@@ -6,8 +6,9 @@ Currently this is in a building phase.
 To test the project and contribute:
 
  Clone the repo
-- `
-git clone https://github.com/Satya-Prakash-Dwivedi/pic-meal.git`
+- `git clone https://github.com/Satya-Prakash-Dwivedi/pic-meal.git`
+
+- Install all the dependencies using `pip install -r requirements.txt`
 
 POSTMAN Testing
 - Create a .env in the root folder
